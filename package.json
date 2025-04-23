@@ -12,5 +12,8 @@
   "packageManager": "pnpm@10.9.0",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.26.10"
   }
 }
